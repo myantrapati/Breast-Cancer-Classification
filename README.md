@@ -33,7 +33,7 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 GitHub Repository:
 
-**ADD_YOUR_GITHUB_REPOSITORY_LINK_HERE**
+**https://github.com/myantrapati/Breast-Cancer-Classification**
 
 The repository contains the source code, Jupyter Notebook, Streamlit application, test dataset, requirements file, trained machine learning models, and preprocessing scaler required to execute the project.
 
